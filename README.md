@@ -58,7 +58,7 @@ App opens at `http://localhost:8501`.
 │       ├── eda.py          # Tab 2: Exploratory Data Analysis
 │       ├── performance.py  # Tab 3: Model metrics
 │       └── bulk_predict.py # Tab 4: CSV batch prediction
-├── data/                   # Dataset directory (add your dataset here)
+├── data/                   # Dataset directory 
 ├── models/                 # Pre-trained models (.pkl files)
 ├── notebooks/              # Jupyter notebooks for model training
 └── images/                 # Documentation screenshots
